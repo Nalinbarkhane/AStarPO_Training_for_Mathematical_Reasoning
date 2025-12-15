@@ -1,0 +1,8 @@
+You will critique the following solution. Identify errors, gaps, and propose a fix.
+Be concise and end with: "Suggested Fix:" followed by corrected steps.
+
+[Problem]
+{problem}
+
+[Solution]
+{solution}

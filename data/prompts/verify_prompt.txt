@@ -1,0 +1,12 @@
+You are a strict verifier. Given a math problem and a candidate solution, judge if
+the final numeric answer matches the correct one and if the reasoning is coherent.
+Respond with one line in JSON: {"correct": true/false, "coherence": 0..1, "explanation": "..."}.
+
+[Problem]
+{problem}
+
+[Candidate]
+{candidate}
+
+[CorrectAnswer]
+{answer}
