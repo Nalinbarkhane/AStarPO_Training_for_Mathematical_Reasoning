@@ -448,13 +448,4 @@ Successfully implemented a **complete, production-ready A*-PO training pipeline*
 - **Solution**: Use 8-bit quantization
 
 ## Author
-
-Nikhil Pandey  
-Week 5 Assignment - NEU Self-Improving AI Course  
-October 2025
-
----
-
-##  License
-
-This project is submitted as coursework for educational purposes.
+Nalin Barkhane
